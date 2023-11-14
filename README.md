@@ -1,6 +1,6 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:cf72c7,100:7ed1e2&height=115&text=Hello%20sweetie&animation=twinkling&fontColor=204c92&fontSize=70" />
-    </div> 
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fcf0ff,100:6278bc&height=120&text=Hello%20Sweetie&animation=twinkling&fontColor=31367d&fontSize=70" />
+    </div>
     
  <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Welcome to ysefls world!  </h2>  
